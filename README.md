@@ -1,0 +1,2 @@
+# AlternativeSoftware_PGP_Verify_and_checksum_for_patch_AR3260_V200R010SPH520.pat
+PGP_Verify_and_checksum_for_patch_AR3260_V200R010SPH520.pat
